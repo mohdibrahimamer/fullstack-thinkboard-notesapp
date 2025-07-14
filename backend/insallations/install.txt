@@ -1,0 +1,11 @@
+yaha per mongoose install karey
+
+
+npm install mongoose@7.0.3
+
+yaha per dotenv install karey environment variables ko use karey
+npm install dotenv
+
+
+yaha per cors install karey to avoid  cors error solve karey
+npm i cors

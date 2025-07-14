@@ -1,0 +1,12 @@
+yaha per database connection karey
+
+mongodb+srv://mohdibrahimamer9:oPB9Nzh1LFskRmJZ@cluster0.yutdxut.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+mongodb+srv://mohdibrahimamer9:oPB9Nzh1LFskRmJZ@cluster0.yutdxut.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+yaha per redis ko connect karey h
+yeh connection hai redis ka
+UPSTASH_REDIS_REST_URL="https://loyal-stinkbug-22071.upstash.io"
+
+yeh token redis ka
+UPSTASH_REDIS_REST_TOKEN="AVY3AAIjcDFmNWZlYWM0MTcyMGI0NzEzYjk3ZTkyM2I0YjczOTJiN3AxMA"

@@ -1,0 +1,6 @@
+yaha per package install karey "nodemon" k naam se
+npm install nodemon -D
+for avoiding restarting the server after every change
+
+this project does not contain authentication
+
